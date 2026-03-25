@@ -1,0 +1,5 @@
+{
+  "name": "Briefing",
+  "description": "En AI-drevet nyhedsapplikation til mobile enheder, der henter, opsummerer og læser nyheder op.",
+  "requestFramePermissions": []
+}
